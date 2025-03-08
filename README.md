@@ -8,6 +8,10 @@ melihat foto yang telah diambil
 ![Screenshot_2025-03-08-23-03-59-273_com example kamera_flutter](https://github.com/user-attachments/assets/d35156db-d283-480b-a8eb-5409c70e4545)
 
 ## No 2
+mengambil foto
+![Screenshot_2025-03-08-23-02-50-987_com example kamera_flutter](https://github.com/user-attachments/assets/0775a9e2-9f7e-4671-a615-62f433d2deb9)
+
+dan menambahkan filter pada foto yang diambil
 ![Screenshot_2025-03-08-23-03-14-779_com example kamera_flutter](https://github.com/user-attachments/assets/e86c626f-43aa-4b7c-b8f8-d209db0634b6)
 
 ## No 3
