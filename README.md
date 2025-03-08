@@ -4,7 +4,8 @@
 membuka kamera dan mengambil foto
 ![Screenshot_2025-03-08-23-02-50-987_com example kamera_flutter](https://github.com/user-attachments/assets/402a10d1-3e98-4759-adce-1395ad7b04a2)
 melihat foto yang telah diambil
-![Screenshot_2025-03-08-23-03-59-273_com example kamera_flutter](https://github.com/user-attachments/assets/79eb73be-8319-4b77-a89a-8ddd713f7e9d)
+![Uploading Screenshot_2025-03-08-23-03-59-273_com.example.kamera_flutter.jpg…]()
+
 
 ## No 2
 ![Screenshot_2025-03-08-23-03-14-779_com example kamera_flutter](https://github.com/user-attachments/assets/0ad2c671-333a-48f9-bdb8-a59bfd474371)
